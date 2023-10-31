@@ -1,8 +1,9 @@
-# React + Vite
+## Key Features:-
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+->Start, pause, resume, and reset the timer.
 
-Currently, two official plugins are available:
+->Provides the current time in seconds and the timer's status.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+->Demonstrates the power of custom hooks in React.
+
+### ✔ Explore the live project :- https://usetimer21.netlify.app/
