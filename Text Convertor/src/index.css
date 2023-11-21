@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+    background-color: #3490dc;
+    color: #fff;
+    padding: 8px 16px;
+    margin-right: 8px;
+    cursor: pointer;
+  }
