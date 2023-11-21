@@ -16,3 +16,5 @@ It supports paste functionality if the input is correct (6 numbers).
 The Submit button is only activated when the entered OTP length is equal to 6.
 
 When an input is active, it's highlighted in yellow.
+
+## ✔ Explore the live project :- https://otpinput21.netlify.app/
